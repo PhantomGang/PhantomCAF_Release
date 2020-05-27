@@ -7,7 +7,7 @@ Linux Kernel Version : 3.18.140
 Android Support : 10 / Q
 
 
-Download : (https://semawur.com/fv4c
+Download : https://semawur.com/fv4c
 
 ## Changelogs
 
