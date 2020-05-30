@@ -2,7 +2,7 @@
 
 Release Version : Carthage - 1.5 
 
-Linux Kernel Version : 4.9.226
+Linux Kernel Version : 4.9.225
 
 Android Support : 10 / Q
 
